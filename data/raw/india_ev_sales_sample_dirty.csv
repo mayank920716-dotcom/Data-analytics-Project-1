@@ -1,0 +1,11 @@
+state,vehicle_category,vehicle_type,year,month,sales,source
+Maharashtra,2-Wheeler,Battery Electric,2023,Jan,"35,420",Kaggle reference sample
+maharashtra,2 wheeler,Battery electric,2023,January,35420,Kaggle reference sample
+Delhi,3-Wheeler,Battery Electric,2023,Feb,12850,Kaggle reference sample
+Karnataka,4-Wheeler,Plug-in Hybrid,2023,Mar, 6420 ,Kaggle reference sample
+Tamil nadu,Bus,Battery Electric,2023,Apr,310,Kaggle reference sample
+Uttar Pradesh,3 Wheeler,Battery Electric,2023,May,,Kaggle reference sample
+Gujarat,2-Wheeler,Battery Electric,2023,Jun,-150,Kaggle reference sample
+Rajasthan,Goods Vehicle,Battery Electric,2023,Jul,2420,Kaggle reference sample
+West Bengal,2-Wheeler,,2023,Aug,8900,Kaggle reference sample
+Kerala,4-Wheeler,Battery Electric,2023,Sept,3700,Kaggle reference sample
